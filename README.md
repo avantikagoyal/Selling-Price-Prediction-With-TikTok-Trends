@@ -21,6 +21,10 @@ The main objective was to aid companies in predicting the prices of trending sne
 ## Methodology
 We employed predictive analytics using a Random Forest Regression model, incorporating variables like selling price, discounts, and social media engagement metrics. Detailed analysis was conducted to understand the relationship between TikTok engagement and Mercari selling prices, guiding dynamic pricing strategies.
 
+## Methodology
+Our methodology included comprehensive steps: data collection, cleaning, exploratory data analysis (EDA), and predictive modeling using a Random Forest Regression model. To gather the necessary data, we employed web scraping techniques using **Selenium** and **BeautifulSoup**. Selenium was used to automate web browser interaction, allowing us to collect dynamic content from TikTok and Mercari, which rely heavily on JavaScript for content loading. BeautifulSoup was used to parse and extract structured data from the HTML content. After collecting the data, we preprocessed the data to prepare it for analysis. We then conducted EDA to understand the relationships between social media engagement metrics and Mercari selling prices. Finally, we built a predictive model using **Random Forest Regression** to forecast pricing trends effectively, focusing on key variables such as likes, shares, views, listing prices, and selling prices.
+
+
 ## Technologies Used
 - **Python** for data manipulation and analysis, utilizing libraries such as Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.
 - **PySpark** for handling large datasets and performing distributed data processing.

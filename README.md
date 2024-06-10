@@ -29,12 +29,6 @@ We employed predictive analytics using a Random Forest Regression model, incorpo
 ## Results
 Our model achieved an 85% accuracy in forecasting optimal prices, demonstrating strong potential for enhancing pricing strategies and marketing efforts. The insights derived from this analysis are intended to help companies tailor their strategies to capitalize on emerging trends and maximize market performance.
 
-## How to Use This Repository
-1. Clone the repository to your local machine.
-2. Install necessary dependencies listed in `requirements.txt`.
-3. Explore the Jupyter notebook and PDF report for a comprehensive understanding of the project methodology and insights.
-4. Utilize the datasets in the `Data/` directory to reproduce the analysis or to try new models.
-
 ## Contributions
 Each team member contributed to different facets of the project, from data collection and model development to strategy formulation and report writing. Our collaborative effort ensured a comprehensive approach to solving the business problem.
 

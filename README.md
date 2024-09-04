@@ -5,7 +5,7 @@ Our project, "TikTok & Mercari Sneakers Sales Analysis," aimed to develop a pred
 
 ## Team Members
 - Avantika Goyal
-- Hillary Huang
+- Hillary Hoang
 - Sadhanha Anand
 - Winnie Chen
 
